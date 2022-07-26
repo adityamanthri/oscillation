@@ -1,0 +1,24 @@
+Here's the installation guide for MacOS systems: 
+
+1. In the terminal, create a new switch by typing:
+	opam switch create 4.07.1
+
+2. Then type:
+	opam switch 4.07.01
+
+3. To install the graphics and the csv modules type:
+	opam install graphics
+	opam install csv
+
+4. Download zip and navigate to the folder in the terminal.
+Make sure you are in the directory cs3110final.
+
+5. In the terminal type:
+	 dune build
+
+6. Then type:
+	make play
+   in order to run the project.
+
+7. While entering the input, make sure the value is either 
+of the type int or float.

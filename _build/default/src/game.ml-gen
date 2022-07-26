@@ -1,0 +1,26 @@
+(** @canonical Game.Author *)
+module Author = Game__Author
+
+
+(** @canonical Game.Core *)
+module Core = Game__Core
+
+
+(** @canonical Game.Multi2dspring *)
+module Multi2dspring = Game__Multi2dspring
+
+
+(** @canonical Game.Multispring *)
+module Multispring = Game__Multispring
+
+
+(** @canonical Game.Ourcsv *)
+module Ourcsv = Game__Ourcsv
+
+
+(** @canonical Game.Singlespring *)
+module Singlespring = Game__Singlespring
+
+
+(** @canonical Game.Twodspring *)
+module Twodspring = Game__Twodspring

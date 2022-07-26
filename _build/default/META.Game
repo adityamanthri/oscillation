@@ -1,0 +1,6 @@
+description = ""
+requires = "csv unix"
+archive(byte) = "game.cma"
+archive(native) = "game.cmxa"
+plugin(byte) = "game.cma"
+plugin(native) = "game.cmxs"
